@@ -12,4 +12,7 @@ Ini adalah tantangan pertama dalam menggunakan Git dan Github
 1. Melakukan `pull request` dari repo hasil forking branch `dev` ke repo original pada branch:
     - untuk instruktur depimomo: `repo-hasil-forking/dev` -> `original-repo/depimomo/main`
     - untuk instruktur withered-flowers: `repo-hasil-forking/dev` -> `original-repo/withered-flowers/main`
+1. Menuliskan judul (title) dari pull request yang dibuat sesuai dengan nama partisipan yang bersangkutan.
+1. Menuliskan deskripsi singkat perubahan apa saja yang dilakukan
+1. Menuliskan nama reviewer sesuai dengan alias instruktur.
 1. Deadline submission sesuai kesepakatan instruktur dengan partisipan.
