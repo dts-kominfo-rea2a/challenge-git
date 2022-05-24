@@ -1,0 +1,1 @@
+console.log("Halo, namaku Latif Aariyadi");
