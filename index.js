@@ -1,0 +1,1 @@
+console.log("Halo Semua, nama saya Wiedy Tira Pratama dari kelas REA2-A");
