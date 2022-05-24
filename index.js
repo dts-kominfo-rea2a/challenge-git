@@ -1,0 +1,1 @@
+console.log('Hallo, namaku adalah M Rudy Voeler');
