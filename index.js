@@ -1,0 +1,1 @@
+console.log("Halo, perkenalkan nama saya Muhamad Muafi Istiqlal");
