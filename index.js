@@ -1,0 +1,1 @@
+console.log("Halo, Nama saya M. Rifki Oskar");
