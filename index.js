@@ -1,0 +1,1 @@
+console.log("Nama saya adalah M Rizki Alif Ramdhani");
