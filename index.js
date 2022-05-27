@@ -1,0 +1,1 @@
+console.log("Hello, namaku adalah Tony Aziz (152235865100-786)")
