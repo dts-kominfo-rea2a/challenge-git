@@ -1,0 +1,1 @@
+console.log("Hello nama saya ZeroneNiam");
