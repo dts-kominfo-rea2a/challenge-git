@@ -1,0 +1,1 @@
+console.log("Halo, namaku adalah Muhammad Surya Yoga Muttaqin");
