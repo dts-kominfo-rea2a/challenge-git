@@ -1,0 +1,1 @@
+console.log(Halo nama ku adalah Syarif Romdhoni)
