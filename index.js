@@ -1,2 +1,1 @@
-let x = "halo, namaku adalah rezky ivan";
-console.log(x);
+console.log("halo, namaku adalah rezky ivan");
