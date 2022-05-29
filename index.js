@@ -1,0 +1,1 @@
+console.info("Halo,namaku adalah Ikhsan Azri");
