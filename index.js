@@ -1,0 +1,1 @@
+console.log ("halo, namu ku adalah Moh Rizki Fauzy A dengan nomor peserta 152235865101-140")
